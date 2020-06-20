@@ -1,0 +1,10 @@
+序号		姓名		成绩	时间	
+1		wu		0		Fri Jun 19 19:17:34 CST 2020
+序号		姓名		成绩	时间	
+1		wu		0		Fri Jun 19 19:17:34 CST 2020
+序号		姓名		成绩	时间	
+1		wu		0		Fri Jun 19 19:17:34 CST 2020
+序号		姓名		成绩	时间	
+1		hello world!		0		Fri Jun 19 19:44:52 CST 2020
+序号		姓名		成绩	时间	
+1		hello world!		0		Fri Jun 19 19:44:52 CST 2020
